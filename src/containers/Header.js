@@ -1,0 +1,13 @@
+import React from "react";
+
+const Header = () => {
+    return(
+        <div className="ui fixed menu">
+            <div className="ui containter center">
+                <h2>MY SHOP</h2>
+            </div>
+        </div>
+    )
+}
+
+export default Header;
